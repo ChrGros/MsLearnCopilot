@@ -21,6 +21,11 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
   Define terms and link to docs.github.com.
 -->
 
+
+## Prenote
+Just to verify everything is working like learned ;-)
+
+
 ## Step 3: View the GitHub Copilot tab with multiple suggestions
 
 _Nice work! You just used AI code suggestions within a Javascript file by using GitHub Copilot :sparkles:_
