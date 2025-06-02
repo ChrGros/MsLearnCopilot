@@ -24,6 +24,7 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
 
 ## Prenote
 Just to verify everything is working like learned ;-)
+PLUS another update
 
 
 ## Step 3: View the GitHub Copilot tab with multiple suggestions
